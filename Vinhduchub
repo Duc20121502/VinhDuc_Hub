@@ -1,0 +1,6 @@
+Config={
+namescript: "VinhDucHub"
+logoscript=81088935096262 
+tác giả:VinhDuc
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/VinhDuc/main/VinhDucHub"))()
